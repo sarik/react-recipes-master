@@ -22,7 +22,7 @@
     "graphql-tools": "^3.0.2",
     "jsonwebtoken": "^8.2.1",
     "mongodb": "^2.2.5",
-    "mongoose": "^5.4.15"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
